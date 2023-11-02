@@ -1,3 +1,3 @@
-# Pacman using QT 
+# AmongMan
 
-Pacman is a simple survive and eat game which is implemented with the help of  QT framework. 
+AmongMan basically Pacman is a simple survive-and-eat game that is implemented with the help of the QT framework. 
