@@ -4,10 +4,13 @@ A pacman game made with Qt Creator.
 
 Play with w, a, s, d keys.
 
-![](./screenshots/1.png)
+<img width="1440" alt="Screenshot 2024-01-04 at 8 14 09 AM" src="https://github.com/NayakPenguin/Among-Man-QT-Project/assets/93304796/eb344a21-f89e-4d0a-a8bb-dccb74fc7d0d">
+
+
+
 
 <h1>Other Contributors</h1>
-<a href="https://github.com/nayaker">Atanu Nayak</a><br>
+<a href="https://github.com/Tsaha11">Tuhin Saha</a><br>
 <a href="https://github.com/stingspree">Arijoy Majumdar</a><br>
 <a href="https://github.com/tanmoy07072001">Tanmoy Roy</a><br>
 
